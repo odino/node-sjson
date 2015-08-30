@@ -4,7 +4,7 @@
 
 > Parsing JSON without raising your voice
 
-I got tired of writing my `JSON.oarse(...)`
+I got tired of writing my `JSON.parse(...)`
 in `try...catch` blocks to prevent wrong inputs
 to raise an exception, so this is the poor man's
 solution to do it without too much fuss.
