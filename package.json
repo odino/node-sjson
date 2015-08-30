@@ -1,0 +1,15 @@
+{
+  "name": "sjson",
+  "version": "1.0.0",
+  "description": "Trie to parse JSON, silently fail if something screws up.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "author": "",
+  "keywords": ["swag", "json"],
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  }
+}
