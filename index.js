@@ -1,3 +1,6 @@
+/**
+ * Complicated things ahead!
+ */
 module.exports = function(input, fallback){
   try {
     return JSON.parse(input)

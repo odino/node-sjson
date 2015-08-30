@@ -1,5 +1,5 @@
 {
-  "name": "sjson",
+  "name": "node-sjson",
   "version": "1.0.0",
   "description": "Trie to parse JSON, silently fail if something screws up.",
   "main": "index.js",

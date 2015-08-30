@@ -18,7 +18,7 @@ npm install sjson
 ## Usage
 
 ``` javascript
-var sjson = require('sjson')
+var sjson = require('node-sjson')
 
 sjson('{"a":1}') // {a: 1}
 sjson('{"a":...--') // undefined
