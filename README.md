@@ -1,4 +1,4 @@
-# sjson
+# node-sjson
 
 [![Build Status](https://travis-ci.org/odino/node-sjson.svg?branch=master)](https://travis-ci.org/odino/node-sjson)
 
