@@ -1,6 +1,6 @@
 {
   "name": "sjson",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Trie to parse JSON, silently fail if something screws up.",
   "main": "index.js",
   "scripts": {
